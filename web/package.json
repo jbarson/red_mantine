@@ -23,7 +23,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "postcss": "^8.4.23",
+    "postcss": "^8.4.31",
     "postcss-loader": "^7.3.0",
     "postcss-preset-mantine": "1.12.3",
     "postcss-simple-vars": "^7.0.1"
